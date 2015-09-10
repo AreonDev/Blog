@@ -3,7 +3,7 @@ title: AreonDev Blog
 header-img: img/home-bg.jpg
 email: admin@areon-dev.de
 description: "Welcome to my blog!"
-baseurl: ""
+baseurl: "/blog"
 url: "http://www.areon-dev.de"
 #twitter_username: 
 github_username:  AreonDev
