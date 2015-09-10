@@ -1,0 +1,17 @@
+# Site settings
+title: AreonDev Blog
+header-img: img/home-bg.jpg
+email: admin@areon-dev.de
+description: "Welcome to my blog!"
+baseurl: ""
+url: "http://www.areon-dev.de"
+#twitter_username: 
+github_username:  AreonDev
+#facebook_username:  
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
